@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@utility container {
+  margin: auto;
+  width: 90%;
+  @media (width >= 80rem /* 1280px */) {
+    max-width: 78rem /* 1280px */;
+  }
+  @media (width >= 96rem /* 1536px */) {
+    max-width: 90rem /* 1536px */;
+  }
+}
