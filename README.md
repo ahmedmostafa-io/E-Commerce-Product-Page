@@ -7,7 +7,7 @@ This project demonstrates real-world frontend architecture including state manag
 
 🚀 Live Demo
 
-![ecommerce](https://e-commerce-product-page-rust-ten.vercel.app/)
+[ecommerce](https://e-commerce-product-page-rust-ten.vercel.app/)
 
 ---
 
