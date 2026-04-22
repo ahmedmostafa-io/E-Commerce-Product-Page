@@ -15,13 +15,13 @@ This project demonstrates real-world frontend architecture including state manag
 
 💻 Desktop
 
-![Desktop](./Project/DT1.png)
-![Desktop](./Project/DT2.png)
-![Desktop](./Project/DT3.png)
+![Desktop](/Project/DT1.png)
+![Desktop](/Project/DT2.png)
+![Desktop](/Project/DT3.png)
 
 📱 Mobile
-![Mobile](./Project/mo1.png)
-![Mobile](./Project/mo2.png)
+![Mobile](/Project/mo1.png)
+![Mobile](/Project/mo2.png)
 
 Add screenshot here
 
@@ -77,7 +77,7 @@ src/
 
 # Clone the repo
 
-git clone
+git clone https://github.com/ahmedmostafa-io/E-Commerce-Product-Page.git
 
 # Go into the project
 
