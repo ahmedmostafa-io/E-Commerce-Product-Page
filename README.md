@@ -115,8 +115,8 @@ npm run dev
 
 Ahmed Mostafa
 
-- GitHub: https://github.com/ahmedmostafa-io
-- LinkedIn: Add your LinkedIn link
+- [GitHub](https://github.com/ahmedmostafa-io)
+- [LinkedIn](https://www.linkedin.com/in/ahmed-mostafa-582378373/)
 
 ---
 
