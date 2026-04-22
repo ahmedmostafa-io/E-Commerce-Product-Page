@@ -20,10 +20,9 @@ This project demonstrates real-world frontend architecture including state manag
 ![Desktop](./public/Project/DT3.png)
 
 📱 Mobile
+
 ![Mobile](./public/Project/mo1.png)
 ![Mobile](./public/Project/mo2.png)
-
-Add screenshot here
 
 ---
 
