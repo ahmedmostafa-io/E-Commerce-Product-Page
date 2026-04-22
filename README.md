@@ -7,7 +7,7 @@ This project demonstrates real-world frontend architecture including state manag
 
 🚀 Live Demo
 
-👉 Add your deployed link here (Vercel / Netlify)
+![ecommerce](https://e-commerce-product-page-rust-ten.vercel.app/)
 
 ---
 
@@ -15,13 +15,13 @@ This project demonstrates real-world frontend architecture including state manag
 
 💻 Desktop
 
-![Desktop](/Project/DT1.png)
-![Desktop](/Project/DT2.png)
-![Desktop](/Project/DT3.png)
+![Desktop](./public/Project/DT1.png)
+![Desktop](./public/Project/DT2.png)
+![Desktop](./public/Project/DT3.png)
 
 📱 Mobile
-![Mobile](/Project/mo1.png)
-![Mobile](/Project/mo2.png)
+![Mobile](./public/Project/mo1.png)
+![Mobile](./public/Project/mo2.png)
 
 Add screenshot here
 
